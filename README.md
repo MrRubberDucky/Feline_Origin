@@ -28,8 +28,6 @@ Fun fact about this: I started working on Feline before I even noticed that Orig
 
 > Pescatarian - You can only eat **fish** and **sea food**
 
-> Underground Talk - When you choose Feline Origin, you automatically join a **secret** team where you can communicate with other Felines via /teammsg
-
 > Heart Effect - Heart Particle Effect around you!
 
 ## *Before You Begin - How to Make This Work*
