@@ -33,7 +33,7 @@ Fun fact about this: I started working on Feline before I even noticed that Orig
 ## *Before You Begin - How to Make This Work*
 If you ever ran a modpack or created one modpack then you'll know by now that you will require **Fabric Loader** to even run **Origins** and most mods that are requried here.
 
-You'll need following mods in order to make this work: [Identity](https://www.curseforge.com/minecraft/mc-mods/identity), [Origin](https://www.curseforge.com/minecraft/mc-mods/origins), [Origins: Classes](https://www.curseforge.com/minecraft/mc-mods/origins-classes), [MobZ](https://www.curseforge.com/minecraft/mc-mods/mobz), [KubeJS Fabric](https://www.curseforge.com/minecraft/mc-mods/kubejs-fabric), [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish)
+You'll need following mods in order to make this work: [Identity](https://www.curseforge.com/minecraft/mc-mods/identity), [Origins](https://www.curseforge.com/minecraft/mc-mods/origins), [Origins: Classes](https://www.curseforge.com/minecraft/mc-mods/origins-classes), [MobZ](https://www.curseforge.com/minecraft/mc-mods/mobz), [KubeJS Fabric](https://www.curseforge.com/minecraft/mc-mods/kubejs-fabric), [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish)
 
 I'm implying you already have a minecraft instance with Fabric on it already set-up.
 
