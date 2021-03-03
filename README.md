@@ -3,6 +3,8 @@ Welcome traveller, you probably landed here somehow so I'll explain further what
 
 This is a **Custom Made Origin** for [Origins](https://www.curseforge.com/minecraft/mc-mods/origins) mod.
 
+It's intended for my Work-In-Progress **RPGSlash** modpack which focuses on **Loot** and **RPG** elements. That's why some stuff may feel extremely off in terms of balance.
+
 Fun fact about this: I started working on Feline before I even noticed that Origins itself has a Feline Origin but I can guarantee you that it's nothing like that, it's something new~
 
 ## Origin Abilities
