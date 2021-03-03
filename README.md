@@ -37,7 +37,7 @@ You'll need following mods in order to make this work: [Identity](https://www.cu
 
 I'm implying you already have a minecraft instance with Fabric on it already set-up.
 
-Click on Code button and Download Zip then open that .zip file with a archival client of your choice, I generally suggest [7-zip](https://www.7-zip.org/) for that job but generally anything should work as long as it has ability to open and unzip.
+Go to [Releases](https://github.com/MrRubberDucky/Feline_Origin/releases/tag/1.0.0) and Download the latest zip and use a archival client of your choice, I would strongly recommend [7-zip](https://www.7-zip.org/) but anything works as long as it can open and extract archives.
 
 Go to the root of your minecraft instance - usually it's just .minecraft folder and extract **KubeJS** folder there. Don't put it anywhere else, it **has** to be there. So in other words, it has to sit in the same place where **mods** folder is.
 
