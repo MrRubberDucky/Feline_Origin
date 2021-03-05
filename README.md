@@ -8,27 +8,27 @@ It's intended for my Work-In-Progress **RPGSlash** modpack which focuses on **Lo
 Fun fact about this: I started working on Feline before I even noticed that Origins itself has a Feline Origin but I can guarantee you that it's nothing like that, it's something new~
 
 ## Origin Abilities
-> Celestial Bond - You're **locked** to cat identity till you change your origin back to something else
+- **Celestial Bond** - You're **locked** to cat identity till you change your origin back to something else
 
-> I sense everything - Activate your senses and show up to **10 entities** with your **first** ability (Usually G)
+- **I sense everything** - Activate your senses and show up to **10 entities** with your **first** ability (Usually G)
 
-> Cat Fury - Unleash your anger against everyone with your **secondary** ability (needs to be mapped to a button of your choice) - Strenght III for 10 seconds and Hunger V for 20 seconds
+- **Cat Fury** - Unleash your anger against everyone with your **secondary** ability (needs to be mapped to a button of your choice) - Strenght III for 10 seconds and Hunger V for 20 seconds
 
-> Acrobatincs - You never take **fall damage**, no matter from which height you fall
+- **Acrobatincs** - You never take **fall damage**, no matter from which height you fall
 
-> Strong Ankles - You are able to **jump higher** by jumping **while** sprinting.
+- **Strong Ankles** - You are able to **jump higher** by jumping **while** sprinting.
 
-> Catlike Appearance - Creepers are **scared** of you and will only explode if you attack them first
+- **Catlike Appearance** - Creepers are **scared** of you and will only explode if you attack them first
 
-> Sneaky - Your nameplate is **never** visible through walls, even when you're not sneaking
+- **Sneaky** - Your nameplate is **never** visible through walls, even when you're not sneaking
 
-> Hydrophobia - You receive **damage over time** while in contact with water
+- **Hydrophobia** - You receive **damage over time** while in contact with water
 
-> Nocturnal (Cat Vision) - You can **slightly** see in the dark when not in water
+- **Nocturnal (Cat Vision)** - You can **slightly** see in the dark when not in water
 
-> Pescatarian - You can only eat **fish** and **sea food**
+- **Pescatarian** - You can only eat **fish** and **sea food**
 
-> Heart Effect - Heart Particle Effect around you!
+- **Heart Effect** - Heart Particle Effect around you!
 
 ## *Before You Begin - How to Make This Work*
 If you ever ran a modpack or created one modpack then you'll know by now that you will require **Fabric Loader** to even run **Origins** and most mods that are requried here.
